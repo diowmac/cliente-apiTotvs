@@ -1,0 +1,15 @@
+D:\Projetos\3aSystem\3aScolar\cliente-api\src\main\java\com\clienteapi\backend\ClienteApiApplication.java
+D:\Projetos\3aSystem\3aScolar\cliente-api\src\main\java\com\clienteapi\backend\config\CorsConfig.java
+D:\Projetos\3aSystem\3aScolar\cliente-api\src\main\java\com\clienteapi\backend\config\OpenApiConfig.java
+D:\Projetos\3aSystem\3aScolar\cliente-api\src\main\java\com\clienteapi\backend\controller\ClienteController.java
+D:\Projetos\3aSystem\3aScolar\cliente-api\src\main\java\com\clienteapi\backend\dto\ClienteDTO.java
+D:\Projetos\3aSystem\3aScolar\cliente-api\src\main\java\com\clienteapi\backend\dto\EnderecoDTO.java
+D:\Projetos\3aSystem\3aScolar\cliente-api\src\main\java\com\clienteapi\backend\dto\TelefoneDTO.java
+D:\Projetos\3aSystem\3aScolar\cliente-api\src\main\java\com\clienteapi\backend\model\Cliente.java
+D:\Projetos\3aSystem\3aScolar\cliente-api\src\main\java\com\clienteapi\backend\model\Endereco.java
+D:\Projetos\3aSystem\3aScolar\cliente-api\src\main\java\com\clienteapi\backend\model\Telefone.java
+D:\Projetos\3aSystem\3aScolar\cliente-api\src\main\java\com\clienteapi\backend\repository\ClienteRepository.java
+D:\Projetos\3aSystem\3aScolar\cliente-api\src\main\java\com\clienteapi\backend\repository\EnderecoRepository.java
+D:\Projetos\3aSystem\3aScolar\cliente-api\src\main\java\com\clienteapi\backend\repository\TelefoneRepository.java
+D:\Projetos\3aSystem\3aScolar\cliente-api\src\main\java\com\clienteapi\backend\service\ClienteService.java
+D:\Projetos\3aSystem\3aScolar\cliente-api\src\main\java\com\clienteapi\backend\util\FormatUtil.java

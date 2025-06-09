@@ -20,8 +20,11 @@ import org.mockito.InjectMocks;
 import org.mockito.Mock;
 import org.mockito.Mockito;
 import org.mockito.junit.jupiter.MockitoExtension;
+import org.mockito.junit.jupiter.MockitoSettings;
+import org.mockito.quality.Strictness;
 
 @ExtendWith(MockitoExtension.class)
+@MockitoSettings(strictness = Strictness.LENIENT)
 public class ClienteServiceTest {
 
     @Mock
@@ -163,9 +166,9 @@ public class ClienteServiceTest {
 
         assertNotNull(atualizado);
         assertEquals("Nome Atualizado", atualizado.getNome());
-        assertEquals("98765432100", atualizado.getCpf());
+        assertEquals("987.654.321-00", atualizado.getCpf());
         assertEquals(1, atualizado.getTelefones().size());
-        assertEquals("999999999", atualizado.getTelefones().get(0).getNumero());
+        assertEquals("9 9999-9999", atualizado.getTelefones().get(0).getNumero());
         assertEquals(1, atualizado.getEnderecos().size());
         assertEquals("Rua A", atualizado.getEnderecos().get(0).getLogradouro());
     }

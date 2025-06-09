@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.clienteapi.backend.service.ClienteServiceTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.063 s -- in com.clienteapi.backend.service.ClienteServiceTest

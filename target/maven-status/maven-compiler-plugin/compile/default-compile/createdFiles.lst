@@ -1,0 +1,15 @@
+com\clienteapi\backend\service\ClienteService.class
+com\clienteapi\backend\util\FormatUtil.class
+com\clienteapi\backend\model\Endereco.class
+com\clienteapi\backend\repository\ClienteRepository.class
+com\clienteapi\backend\controller\ClienteController.class
+com\clienteapi\backend\dto\EnderecoDTO.class
+com\clienteapi\backend\config\OpenApiConfig.class
+com\clienteapi\backend\dto\ClienteDTO.class
+com\clienteapi\backend\ClienteApiApplication.class
+com\clienteapi\backend\repository\TelefoneRepository.class
+com\clienteapi\backend\dto\TelefoneDTO.class
+com\clienteapi\backend\model\Cliente.class
+com\clienteapi\backend\model\Telefone.class
+com\clienteapi\backend\repository\EnderecoRepository.class
+com\clienteapi\backend\config\CorsConfig.class
