@@ -9,6 +9,7 @@ com\clienteapi\backend\dto\ClienteDTO.class
 com\clienteapi\backend\ClienteApiApplication.class
 com\clienteapi\backend\repository\TelefoneRepository.class
 com\clienteapi\backend\dto\TelefoneDTO.class
+com\clienteapi\backend\config\GlobalExceptionHandler.class
 com\clienteapi\backend\model\Cliente.class
 com\clienteapi\backend\model\Telefone.class
 com\clienteapi\backend\repository\EnderecoRepository.class

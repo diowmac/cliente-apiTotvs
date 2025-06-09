@@ -1,5 +1,6 @@
 D:\Projetos\3aSystem\3aScolar\cliente-api\src\main\java\com\clienteapi\backend\ClienteApiApplication.java
 D:\Projetos\3aSystem\3aScolar\cliente-api\src\main\java\com\clienteapi\backend\config\CorsConfig.java
+D:\Projetos\3aSystem\3aScolar\cliente-api\src\main\java\com\clienteapi\backend\config\GlobalExceptionHandler.java
 D:\Projetos\3aSystem\3aScolar\cliente-api\src\main\java\com\clienteapi\backend\config\OpenApiConfig.java
 D:\Projetos\3aSystem\3aScolar\cliente-api\src\main\java\com\clienteapi\backend\controller\ClienteController.java
 D:\Projetos\3aSystem\3aScolar\cliente-api\src\main\java\com\clienteapi\backend\dto\ClienteDTO.java
